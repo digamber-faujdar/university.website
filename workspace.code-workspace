@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\python1"
+		},
+		{
+			"path": "..\\TurboC++"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "python1"
+	}
+}
